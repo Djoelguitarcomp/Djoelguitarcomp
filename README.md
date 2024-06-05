@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do Djoelguitarcomp 😉
+## Bem-vindo(a) ao perfil do djoelguitarcomp 😉
 
  <div>
-   <a href="https://github.com/Djoelguitarcomp">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Djoelguitarcomp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djoelguitarcomp&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/djoelguitarcomp">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=djoelguitarcomp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djoelguitarcomp&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
